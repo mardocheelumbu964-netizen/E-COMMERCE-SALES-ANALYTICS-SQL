@@ -8,9 +8,9 @@ DDL/DML, constraints, JOINs, aggregations, subqueries, CTEs, CASE, window functi
 ## How to Run
 Use MySQL 8.0+.
 Run:
-1. database/01_create_database.sql
-2. database/02_create_tables.sql
-3. database/03_insert_sample_data.sql
+1. create_database.sql
+2. create_tables.sql
+3. insert_sample_data.sql
 
 Then run the files in queries, views, procedures, triggers and indexes.
 
